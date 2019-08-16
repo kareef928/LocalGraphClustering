@@ -1,4 +1,4 @@
-from .GraphLocal import GraphLocal
+from .GraphLocal import GraphLocal as gl
 from .GraphDrawing import GraphDrawing
 from .fiedler import fiedler, fiedler_local
 from .approximate_PageRank import approximate_PageRank
